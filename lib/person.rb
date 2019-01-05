@@ -1,9 +1,3 @@
-class Person
-  #your code here
-end
-
-
-
 
 
 class Person
